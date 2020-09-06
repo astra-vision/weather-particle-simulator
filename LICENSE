@@ -1,0 +1,13 @@
+IMPORTANT:
+This data is property of Carnegie Mellon University and originates from (de Charette et al., 2012)
+https://www.cs.cmu.edu/~ILIM/projects/IL/smartHeadlight/index2.html
+
+Note that we only provide a copy of the binaries. We thank authors for their kind authorization.
+
+Usage should comply with original authors licensing terms. Upon use, please cite their original work.
+@inproceedings{de2012fast,
+  title={Fast reactive control for illumination through rain and snow},
+  author={De Charette, Raoul and Tamburo, Robert and Barnum, Peter C and Rowe, Anthony and Kanade, Takeo and Narasimhan, Srinivasa G},
+  booktitle={International Conference on Computational Photography (ICCP)},
+  year={2012}
+}
