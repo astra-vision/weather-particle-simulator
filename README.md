@@ -42,7 +42,7 @@ On Ubuntu, we recommend installing the required dependencies following these gui
 ## Running the simulator
 To test all dependencies are correctly installed, just run:
 * Linux (Ubuntu 20.04, Focal Fossa): ``cd lin_x64; ./AHLSimulation``  
-* Linux (Ubuntu 18.04, Bionic Beaver): ``cd lin_x64; ./AHLSimulation_bionic``  ⚠️ For [rain rendering](https://github.com/astra-vision/rain-rendering/) to use this Bionic binary, you must change `AHLSimulation` to `AHLSimulation_bionic` [here](https://github.com/astra-vision/rain-rendering/blob/9e994b0cd7e5e210189821345f6655b21c79ca48/tools/simulation.py#L286).  (thanks to Eran Kishon for providing these binaries)
+* Linux (Ubuntu 18.04, Bionic Beaver): ``cd lin_x64; ./AHLSimulation_bionic``  ⚠️ For [rain rendering](https://github.com/astra-vision/rain-rendering/) to use this Bionic binary, you must change "AHLSimulation" to "AHLSimulation_bionic" in [this line](https://github.com/astra-vision/rain-rendering/blob/9e994b0cd7e5e210189821345f6655b21c79ca48/tools/simulation.py#L286).  (thanks to Eran Kishon for providing these binaries)
 * Windows: ``cd win_x64 & AHLSimulation.exe``
 
 If command fails, resolve missing dependencies.  
