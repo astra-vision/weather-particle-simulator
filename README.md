@@ -1,6 +1,8 @@
 # Fast Reactive Control for Illumination Through Rain and Snow
 This repo is for releasing **x64** binaries for Windows and Linux.  
-The work (de Charette et al., ICCP 2012) belongs to Carnegie Mellon University. Please, read LICENSE below and refer to the [official project page](https://www.cs.cmu.edu/smartheadlight/index2.html).
+The work (de Charette et al., ICCP 2012) belongs to Carnegie Mellon University and is distributed under MIT licensing term. Please, also refer to the [official project page](https://www.cs.cmu.edu/smartheadlight/index2.html).
+
+**News 2024-10-29**: Following multiple requests, we have changed to MIT license and will also share code in some time.
 
 ## Paper 
 [Fast Reactive Control for Illumination Through Rain and Snow](https://www.cs.cmu.edu/smartheadlight/index2.html) \
@@ -52,6 +54,4 @@ If command succeeds, just exit the simulator by entering ``0`` and enter.
 This data is property of Carnegie Mellon University and originates from (de Charette et al., 2012)
 https://www.cs.cmu.edu/~ILIM/projects/IL/smartHeadlight/index2.html
 
-Licensing is only allowed in the context of usage for (S.S. Halder et al., 2019) and (M. Tremblay et al., 2020) projects and in non-commercial applications.
-
-We thank authors for their kind authorization.
+Binaries and code are released under MIT License
